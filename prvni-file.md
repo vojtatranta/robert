@@ -6,3 +6,5 @@ Vpravo od nás sedí nějací asiati, asi jsou na návštěvě Prahy. Snad si to
 
 
 Přidal jsem sem další text, co s tím uděláš?
+
+Uplnej novej commit!
