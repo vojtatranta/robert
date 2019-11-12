@@ -1,10 +1,7 @@
-AHoj roberte!
 
-Ted jsme v kozlovně a já piju asi čtvrté pivo. Píše mi moje žena, asi se ptá, kde sakra sem, to vona dělá, je hrozně naštnáva.
+We are in Kozlov now and I drink about the fourth beer. My wife writes to me, she probably asks where the hell here she is, she's really upset.
+Some Vietnamies are sitting on the right from us, they are probably visiting Prague. Perhaps they will enjoy it here!
 
-Vpravo od nás sedí nějací asiati, asi jsou na návštěvě Prahy. Snad si to tady užijí!
+I've added another text here, what are you going to do about it?
 
-
-Přidal jsem sem další text, co s tím uděláš?
-
-Uplnej novej commit!
+Complete a new commit!
